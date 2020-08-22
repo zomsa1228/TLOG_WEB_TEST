@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "The Last of Grandalsia",
+        "width": 720,
+        "height": 1280,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
