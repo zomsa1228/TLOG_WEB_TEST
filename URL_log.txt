@@ -1,0 +1,5 @@
+AltSaveScreen: 
+TPB_CastGauge: 
+NRP_GameWindowSize: http://newrpg.seesaa.net/article/475413177.html/NRP_GameWindowSize.js
+BattleendShowExpAndMoney: https://kinoei.sakura.ne.jp/BattleendShowExpAndMoney.js
+AutoPluginUpdater: https://raw.githubusercontent.com/unagiootoro/RPGMZ/master/AutoPluginUpdater.js

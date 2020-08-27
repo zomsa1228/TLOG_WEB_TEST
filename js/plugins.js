@@ -3,5 +3,8 @@
 var $plugins =
 [
 {"name":"AltSaveScreen","status":true,"description":"セーブ／ロード画面のレイアウトを変更します。","parameters":{}},
-{"name":"TPB_CastGauge","status":true,"description":"スキル発動待機時間をゲージに表示します。","parameters":{"CastGaugeColor1":"#ff0000","CastGaugeColor2":"#ffaaaa"}}
+{"name":"TPB_CastGauge","status":true,"description":"スキル発動待機時間をゲージに表示します。","parameters":{"CastGaugeColor1":"#ff0000","CastGaugeColor2":"#ffaaaa"}},
+{"name":"NRP_GameWindowSize","status":true,"description":"v1.01 ゲーム全体のウィンドウサイズを変更＆オプションに追加","parameters":{"windowWidth":"Graphics.width","windowHeight":"Graphics.height","<option>":"","useOption":"true","optionName":"ウィンドウサイズ","optionDispType":"percent","windowSizeMin":"50","windowSizeMax":"150","windowSizeOffset":"25","<cooperation>":"","overWriteSceneManagerRun":"true"}},
+{"name":"BattleendShowExpAndMoney","status":true,"description":"戦闘終了時にパーティの状態を表示するアレと経験値バー\r\nVer 1.0.2","parameters":{"enable_endstatus":"true","enable_exp_for_mainmenu":"true"}},
+{"name":"AutoPluginUpdater","status":true,"description":"プラグイン自動更新プラグイン v0.1.1","parameters":{"BackupDirName":"backup","PluginUrl":"","DisableUpdatePlugin":"","WriteUrlLog":"true"}}
 ];
