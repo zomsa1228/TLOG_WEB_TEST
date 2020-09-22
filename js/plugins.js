@@ -3,7 +3,9 @@
 var $plugins =
 [
 {"name":"AutoPluginUpdater","status":true,"description":"プラグイン自動更新プラグイン v0.1.1","parameters":{"BackupDirName":"backup","PluginUrl":"","DisableUpdatePlugin":"","WriteUrlLog":"true"}},
-{"name":"AltSaveScreen","status":true,"description":"セーブ／ロード画面のレイアウトを変更します。","parameters":{}},
+{"name":"TSGamepad","status":true,"description":"[v1.0] OnScreen Controls for RMMZ","parameters":{"dpad":"1","stick":"60","exten":".svg","bcAd":"#7dc242","bcBd":"#ed1c24","bcXd":"#24bcee","bcYd":"#f0ea1b"}},
+{"name":"MapNameinSaveData","status":true,"description":"セーブデータ上に現在のマップ名を載せるプラグイン","parameters":{"MapName_x":"0","MapName_y":"0","Characters_x":"0","Characters_y":"0","Playtime_x":"0","Playtime_y":"0"}},
+{"name":"AltSaveScreen","status":false,"description":"セーブ／ロード画面のレイアウトを変更します。","parameters":{}},
 {"name":"TPB_CastGauge","status":true,"description":"スキル発動待機時間をゲージに表示します。","parameters":{"CastGaugeColor1":"#ff0000","CastGaugeColor2":"#ffaaaa"}},
 {"name":"NRP_GameWindowSize","status":true,"description":"v1.01 ゲーム全体のウィンドウサイズを変更＆オプションに追加","parameters":{"windowWidth":"Graphics.width","windowHeight":"Graphics.height","<option>":"","useOption":"true","optionName":"ウィンドウサイズ","optionDispType":"percent","windowSizeMin":"50","windowSizeMax":"200","windowSizeOffset":"25","<cooperation>":"","overWriteSceneManagerRun":"true"}},
 {"name":"BattleendShowExpAndMoney","status":false,"description":"戦闘終了時にパーティの状態を表示するアレと経験値バー\r\nVer 1.0.2","parameters":{"enable_endstatus":"true","enable_exp_for_mainmenu":"true"}},
