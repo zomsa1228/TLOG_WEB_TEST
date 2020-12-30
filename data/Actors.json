@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Rhozunda","characterIndex":0,"characterName":"Rhozunda","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Rhozunda","traits":[],"initialLevel":5,"maxLevel":99,"name":"ロズンダ","nickname":"伝説の魔法使い","note":"","profile":"ロズンダ・メスリ"},
+{"id":1,"battlerName":"Rhozunda","characterIndex":0,"characterName":"Rhozunda","classId":31,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Rhozunda","traits":[],"initialLevel":5,"maxLevel":99,"name":"ロズンダ","nickname":"伝説の魔法使い","note":"","profile":"ロズンダ・メスリ"},
 {"id":2,"battlerName":"Shaloth","characterIndex":0,"characterName":"Shaloth","classId":17,"equips":[49,0,0,9,0],"faceIndex":0,"faceName":"シャロス","traits":[],"initialLevel":5,"maxLevel":99,"name":"シャロス","nickname":"伝説の召喚士","note":"","profile":"シャロス・ラバン"},
 {"id":3,"battlerName":"Roimy","characterIndex":0,"characterName":"Roimy","classId":5,"equips":[31,0,65,5,0],"faceIndex":0,"faceName":"Roimy","traits":[],"initialLevel":5,"maxLevel":99,"name":"ロイミー","nickname":"伝説の機工士","note":"","profile":"ロイミー・ゾムサ"},
 {"id":4,"battlerName":"Fathnel","characterIndex":0,"characterName":"Fathnel","classId":16,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"ファスネル","traits":[],"initialLevel":5,"maxLevel":99,"name":"ファスネル","nickname":"","note":"","profile":"ファスネル・リーダン"},

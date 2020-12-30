@@ -1,8 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"西ローデシア","order":2,"parentId":0,"scrollX":2093,"scrollY":2964},
-{"id":2,"expanded":false,"name":"ダンジョン","order":3,"parentId":1,"scrollX":819,"scrollY":604},
-{"id":3,"expanded":false,"name":"酒場","order":4,"parentId":1,"scrollX":811,"scrollY":461},
-{"id":4,"expanded":false,"name":"かいはつしつ","order":1,"parentId":0,"scrollX":539,"scrollY":319},
-{"id":5,"expanded":false,"name":"ローデシア北部","order":5,"parentId":0,"scrollX":1724,"scrollY":2619}
+{"id":1,"expanded":true,"name":"西ローデシア","order":2,"parentId":0,"scrollX":2187.2727272727275,"scrollY":3093.818181818182},
+{"id":2,"expanded":false,"name":"ダンジョン","order":3,"parentId":1,"scrollX":893.4545454545455,"scrollY":604.3636363636364},
+{"id":3,"expanded":false,"name":"酒場","order":4,"parentId":1,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
+{"id":4,"expanded":false,"name":"かいはつしつ","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.1818181818182},
+{"id":5,"expanded":true,"name":"ローデシア北部","order":5,"parentId":0,"scrollX":1855.6363636363637,"scrollY":2577.818181818182},
+{"id":6,"expanded":false,"name":"ワールドマップ","order":6,"parentId":0,"scrollX":2482.5,"scrollY":2134.5}
 ]
