@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "Last of Grandalsia",
-        "width": 720,
-        "height": 1280,
+        "width": 600,
+        "height": 1300,
         "position": "center",
         "icon": "icon/icon.png"
     }
